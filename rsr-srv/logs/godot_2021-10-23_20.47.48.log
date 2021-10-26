@@ -1,0 +1,4 @@
+Godot Engine v3.3.4.stable.official.faf3f883d - https://godotengine.org
+ 
+**ERROR**: Condition "default_certs != __null" is true.
+   At: modules/mbedtls/crypto_mbedtls.cpp:201:load_default_certificates() - Condition "default_certs != __null" is true.

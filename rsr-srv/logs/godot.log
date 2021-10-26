@@ -1,0 +1,6 @@
+Godot Engine v3.3.4.stable.official.faf3f883d - https://godotengine.org
+OpenGL ES 3.0 Renderer: llvmpipe (LLVM 12.0.0, 128 bits)
+OpenGL ES Batching: ON
+ 
+**ERROR**: Condition "default_certs != __null" is true.
+   At: modules/mbedtls/crypto_mbedtls.cpp:201:load_default_certificates() - Condition "default_certs != __null" is true.
